@@ -52,10 +52,7 @@
 - 由于小视频接口有问题，当加载成功的数据少于10条时，会自动加载下一页，直到大于10条为止
 - 添加新鲜事大图模式切换功能
 
-##关于我
 
-- [Android研发工程师](http://weibo.com/zhaokaiqiang1992)
-- [CSDN博客专家](http://blog.csdn.net/zhaokaiqiang1992)
 
 ##使用到的开源框架
 
