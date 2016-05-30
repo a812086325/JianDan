@@ -7,7 +7,7 @@
 
 废话不多说，先上效果图
 
-![GIF](https://github.com/ZhaoKaiQiang/JianDan/blob/master/images/demo.gif)
+![GIF](https://coding.net/u/chaokun/p/JIanDan/git/blob/master/images/demo.gif)
 
 ##项目介绍
 
