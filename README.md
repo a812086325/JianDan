@@ -1,13 +1,14 @@
 <<<<<<< HEAD
-# JianDan客户端高仿版
-
+# 煎蛋客户端高仿版
+本源码来源于互联网，分享给有需要的朋友。
+本源码非常具有参考价值。
 ---
 
 ##效果图
 
 废话不多说，先上效果图
 
-![GIF](https://coding.net/u/chaokun/p/JIanDan/git/blob/chaokun/images%2Fdemo.gif)
+![GIF](https://github.com/a812086325/JianDan/blob/chaokun/images/demo.gif)
 
 ##项目介绍
 
@@ -67,4 +68,4 @@
 - [LeakCanary](https://github.com/square/leakcanary)
 =======
 #JIanDan
->>>>>>> 033f34f7b71f147d35d5fbe2923f36e7686a12d5
+- [CoDing代码仓库](https://git.coding.net/chaokun/JIanDan.git)
